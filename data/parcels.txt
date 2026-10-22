@@ -1,0 +1,4 @@
+1001|Arun|Chennai|1|3
+1002|Priya|Coimbatore|3|2
+1003|Kumar|Madurai|2|0
+1004|Rajesh|Trichy|1|0
